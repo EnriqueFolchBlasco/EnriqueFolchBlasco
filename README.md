@@ -1,4 +1,4 @@
-<h1><img src="https://media.tenor.com/RQVsMkLH-_wAAAAj/pepe.gif" width="100" height="100""/> I'm Enrique, nice to see you around.</h1>
+<h1><img src="https://media.tenor.com/RQVsMkLH-_wAAAAj/pepe.gif" width="50" height="50""/> I'm Enrique, nice to see you around.</h1>
 
 
 
