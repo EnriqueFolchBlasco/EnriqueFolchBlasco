@@ -1,11 +1,11 @@
 <h1><img src="https://media.tenor.com/RQVsMkLH-_wAAAAj/pepe.gif" width="50" height="50""/> I'm Enrique, nice to see you around.</h1>
 
 <p>
-Hi, my name is Enrique Folch Blasco, and I am a passionate student of Java programming language. I currently reside in the beautiful city of Valencia, Spain. 
+Hi, my name is Enrique Folch Blasco, and I am a passionate student of Java programming language. I currently reside in a torn close to the beautiful city of Valencia, Spain. 
 
 Currently, I am channeling my passion for programming into creating various applications for fun. These projects help me apply what I've learned and explore new possibilities in software development.
 
-Thank you for taking the time to learn about my journey as a Java programmer. I am excited about the future and look forward to continuing my exploration in the vast field of software development.
+Thank you for taking the time to read this. I am excited about the future and look forward to continuing my exploration in the vast field of software development.
 
 Feel free to reach out if you'd like to discuss programming, share ideas, or collaborate on exciting projects!
 </p>
