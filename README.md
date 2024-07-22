@@ -24,4 +24,4 @@
 
 > [!NOTE]  
 > I'm trying to do my best with this presentation/portfolio. Chill if you dislike it; my projects aren't the best looking, but I put effort into them.
-> In case you truly hate me, click this link -> <a href="https://www.youtube.com/watch?v=QB7ACr7pUuE" title="Go for it.">LINK  </a> <img src="https://github.com/user-attachments/assets/53c9e870-dde4-4a72-a911-234c7b04be6f" width="50" height="50" /> 
+> In case you truly hate me, click this link -> <a href="https://www.youtube.com/watch?v=QB7ACr7pUuE" title="Go for it.">LINK </a> 
