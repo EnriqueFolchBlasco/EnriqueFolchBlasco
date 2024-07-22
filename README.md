@@ -2,9 +2,6 @@
 
 <p>Im trying to do my best with this presentation/portfolio, chill if you dislike it, my projects aren't the best looking but I put effort into them. In case you trully hate my work clicl this link -> [Duck Duck Go](https://www.youtube.com/watch?v=QB7ACr7pUuE)
   
-```
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
-```
 <img src="https://github.com/user-attachments/assets/53c9e870-dde4-4a72-a911-234c7b04be6f" width="50" height="50" /> </p>
 
 <p>
