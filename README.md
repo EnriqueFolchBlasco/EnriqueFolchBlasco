@@ -24,5 +24,5 @@ Feel free to reach out if you'd like to discuss programming, share ideas, or col
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="windows" width="40" height="40"/>
   <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/>
-
+</p>
 <img src="https://github.com/user-attachments/assets/53c9e870-dde4-4a72-a911-234c7b04be6f" width="50" height="50" /> 
