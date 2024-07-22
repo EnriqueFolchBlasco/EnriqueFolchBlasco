@@ -1,9 +1,5 @@
 <h1><img src="https://github.com/user-attachments/assets/23a4dd66-83e8-4c3b-b17c-fed918c53d53" width="50" height="50" /> I'm Enrique, nice to see you around. </h1>
 
-<p>I'm trying to do my best with this presentation/portfolio. Chill if you dislike it; my projects aren't the best looking, but I put effort into them. </p>
-  
-<p>In case you truly hate me, click this link -> <a href="https://www.youtube.com/watch?v=QB7ACr7pUuE" title="Go for it.">LINK  </a> <img src="https://github.com/user-attachments/assets/53c9e870-dde4-4a72-a911-234c7b04be6f" width="50" height="50" />  </p>
-
 <p>Hi, my name is Enrique Folch Blasco, and I am a passionate student of the Java programming language. I currently reside in a town close to the beautiful city of Valencia, Spain.</p>
 
 <p>Currently, while I study in a vocational training program for the development of multiplatform applications, I am channeling my passion for programming into creating various applications for fun and making projects assigned by my teachers. These projects help me apply what I've learned and explore new possibilities in software development.</p>
@@ -25,3 +21,7 @@
   <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="windows" width="40" height="40"/>
   <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/>
 </p>
+
+> [!NOTE]  
+> I'm trying to do my best with this presentation/portfolio. Chill if you dislike it; my projects aren't the best looking, but I put effort into them.
+> In case you truly hate me, click this link -> <a href="https://www.youtube.com/watch?v=QB7ACr7pUuE" title="Go for it.">LINK  </a> <img src="https://github.com/user-attachments/assets/53c9e870-dde4-4a72-a911-234c7b04be6f" width="50" height="50" /> 
