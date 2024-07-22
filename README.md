@@ -26,4 +26,4 @@
 <br>
 
 > [!NOTE]  
-> For a further explanation ABOUT ME, click this link -> <a href="https://www.youtube.com/watch?v=QB7ACr7pUuE" title="Go for it.">LINK </a> 
+> For a further explanation about me, click this link -> <a href="https://www.youtube.com/watch?v=QB7ACr7pUuE" title="Go for it.">LINK </a> 
