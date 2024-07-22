@@ -1,6 +1,6 @@
-<h1><img src="https://github.com/user-attachments/assets/23a4dd66-83e8-4c3b-b17c-fed918c53d53" width="50" height="50" /> I'm Enrique, nice to see you around. <img src="https://github.com/user-attachments/assets/53c9e870-dde4-4a72-a911-234c7b04be6f" width="50" height="50" /> </h1>
+<h1><img src="https://github.com/user-attachments/assets/23a4dd66-83e8-4c3b-b17c-fed918c53d53" width="50" height="50" /> I'm Enrique, nice to see you around. </h1>
 
-<p>I'm trying to do my best with this presentation/portfolio. Chill if you dislike it; my projects aren't the best looking, but I put effort into them.
+<p>I'm trying to do my best with this presentation/portfolio. Chill if you dislike it; my projects aren't the best looking, but I put effort into them. <img src="https://github.com/user-attachments/assets/53c9e870-dde4-4a72-a911-234c7b04be6f" width="50" height="50" /> </p>
   
 <p>In case you truly hate me, click this link -> <a href="https://www.youtube.com/watch?v=QB7ACr7pUuE" title="Go for it.">LINK</a></p>
 
