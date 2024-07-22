@@ -1,6 +1,6 @@
 <h1><img src="https://github.com/user-attachments/assets/23a4dd66-83e8-4c3b-b17c-fed918c53d53" width="50" height="50" /> I'm Enrique, nice to see you around.</h1>
 
-<p>Im trying to do my best with this presentation / portfolio, chill if you dislike it, <br> my projects aren't the best looking but I put effort into them. <img src="https://github.com/user-attachments/assets/53c9e870-dde4-4a72-a911-234c7b04be6f" width="50" height="50" /> </p>
+<p>Im trying to do my best with this presentation/portfolio, chill if you dislike it, my projects aren't the best looking but I put effort into them. <img src="https://github.com/user-attachments/assets/53c9e870-dde4-4a72-a911-234c7b04be6f" width="50" height="50" /> </p>
 
 <p>
 Hi, my name is Enrique Folch Blasco, and I am a passionate student of Java programming language. I currently reside in a town close to the beautiful city of Valencia, Spain. 
