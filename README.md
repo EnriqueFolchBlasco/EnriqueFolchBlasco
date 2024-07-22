@@ -2,7 +2,6 @@
 
 <p>Im trying to do my best with this presentation/portfolio, chill if you dislike it, my projects aren't the best looking but I put effort into them. In case you trully hate me click this link -> </p> [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy")
   
-<img src="https://github.com/user-attachments/assets/53c9e870-dde4-4a72-a911-234c7b04be6f" width="50" height="50" /> 
 
 <p>
 Hi, my name is Enrique Folch Blasco, and I am a passionate student of Java programming language. I currently reside in a town close to the beautiful city of Valencia, Spain. 
@@ -26,3 +25,4 @@ Feel free to reach out if you'd like to discuss programming, share ideas, or col
   <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="windows" width="40" height="40"/>
   <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/>
 
+<img src="https://github.com/user-attachments/assets/53c9e870-dde4-4a72-a911-234c7b04be6f" width="50" height="50" /> 
