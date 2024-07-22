@@ -3,7 +3,7 @@
 <p>
 Hi, my name is Enrique Folch Blasco, and I am a passionate student of Java programming language. I currently reside in a town close to the beautiful city of Valencia, Spain. 
 
-<p>Im trying to do my best with this presentation / portfolio, chill if you dislike it. <img src="https://github.com/user-attachments/assets/53c9e870-dde4-4a72-a911-234c7b04be6f" width="50" height="50" /> </p>
+<p>Im trying to do my best with this presentation / portfolio, chill if you dislike it.    <img src="https://github.com/user-attachments/assets/53c9e870-dde4-4a72-a911-234c7b04be6f" width="50" height="50" /> </p>
 
 Currently, while I study in a vocational training of development of multiplataform applications, I am channeling my passion for programming into creating various applications for fun and making projects that are assigned by my teachers. These projects help me apply what I've learned and explore new possibilities in software development.
 
