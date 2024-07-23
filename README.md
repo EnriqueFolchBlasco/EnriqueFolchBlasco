@@ -2,7 +2,7 @@
 
 <p>Hi, my name is Enrique Folch Blasco, and I am a passionate student of the Java programming language. I currently reside in a town close to the beautiful city of Valencia, Spain.</p>
 
-<p>Currently, while I study in a vocational training program for the development of multiplatform applications, I am channeling my passion for programming into creating various applications for fun and making projects assigned by my teachers. These projects help me apply what I've learned and explore new possibilities in software development.</p>
+<p>Currently, while I study in a vocational training program about the development of multiplatform applications, I am channeling my passion for programming into creating various applications for fun and making projects assigned by my teachers. These projects help me apply what I've learned and explore new possibilities in software development.</p>
 
 <p>Thank you for taking the time to read this. I am excited about the future and look forward to continuing my exploration in the vast field of software development.</p>
 
@@ -16,10 +16,10 @@
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mySql" width="40" height="40"/>
+  <a href="https://www.mysql.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mySql" width="40" height="40"/>
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="windows" width="40" height="40"/>
-  <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/>
+  <a href="https://www.microsoft.com/es-es/windows" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="windows" width="40" height="40"/>
+  <a href="https://learn.microsoft.com/es-es/powershell/scripting/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/>
 </p>
 
 <br>
