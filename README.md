@@ -2,7 +2,7 @@
 
 <p>Hi, my name is Enrique Folch Blasco, and I am a passionate student of the Java programming language. I currently reside in a town close to the beautiful city of Valencia, Spain.</p>
 
-<p>Currently, while I study in a vocational training program about the development of multiplatform applications, I am channeling my passion for programming into creating various applications for fun and making projects assigned by my teachers. These projects help me apply what I've learned and explore new possibilities in software development.</p>
+<p>Currently, while I study in a vocational training course about the development of multiplatform applications, I am channeling my passion for programming into creating various applications for fun and making projects assigned by my teachers. These projects help me apply what I've learned and explore new possibilities in software development.</p>
 
 <p>Thank you for taking the time to read this. I am excited about the future and look forward to continuing my exploration in the vast field of software development.</p>
 
