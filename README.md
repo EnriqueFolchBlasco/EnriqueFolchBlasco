@@ -22,6 +22,4 @@
   <a href="https://learn.microsoft.com/es-es/powershell/scripting/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/>
 </p>
 
-<br>
-<br>
 
