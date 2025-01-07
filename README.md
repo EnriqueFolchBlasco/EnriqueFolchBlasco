@@ -1,6 +1,6 @@
 <h1><img src="https://github.com/user-attachments/assets/23a4dd66-83e8-4c3b-b17c-fed918c53d53" width="50" height="50" /> I'm Enrique, nice to see you around. </h1>
 
-<p>Hi, my name is Enrique Folch Blasco, and I am a passionate student of some programming languages, such Java, Python, Kotlin.... I currently reside in a town close to the beautiful city of Valencia, Spain.</p>
+<p>Hi, my name is Enrique Folch Blasco, and I am a passionate student of some programming languages, such as Java, Python, Kotlin.... I currently reside in a town close to the beautiful city of Valencia, Spain.</p>
 
 <p>Currently, while I study in a vocational training course about the development of multiplatform applications, I am channeling my passion for programming into creating various applications for fun and making projects assigned by my teachers. These projects help me apply what I've learned and explore new possibilities in software development.</p>
 
