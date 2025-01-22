@@ -9,9 +9,9 @@
 <p>Feel free to reach out if you'd like to discuss programming, share ideas, or collaborate on exciting projects!</p>
 
 
-<h3 style="font-family: 'Arial', sans-serif; color: #333;">Languages and Tools that I Use:</h3>
+<h3 style="font-family: 'Arial', sans-serif; color: #333;">Languages and Tools that I Use: </h3>
 
-<!-- Programming Languages Section -->
+<!-- Programming Languages Secció -->
 <h4 style="font-family: 'Arial', sans-serif; color: #555;">Programming Languages:</h4>
 <div style="display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: nowrap;">
   <a href="https://kotlinlang.org/docs/home.html" target="_blank">
@@ -28,7 +28,7 @@
   </a>
 </div>
 
-<!-- Frameworks & Platforms Section -->
+<!-- Frameworks i Platforms Secció -->
 <h4 style="font-family: 'Arial', sans-serif; color: #555;">Frameworks & Platforms:</h4>
 <div style="display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: nowrap;">
   <a href="https://developer.android.com" target="_blank">
@@ -45,7 +45,7 @@
   </a>
 </div>
 
-<!-- Operating Systems Section -->
+<!-- Operating Systems Secció -->
 <h4 style="font-family: 'Arial', sans-serif; color: #555;">Operating Systems:</h4>
 <div style="display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: nowrap;">
   <a href="https://www.linux.org/" target="_blank">
@@ -56,7 +56,7 @@
   </a>
 </div>
 
-<!-- Scripting & Automation Section -->
+<!-- Scripting i Automation Secció -->
 <h4 style="font-family: 'Arial', sans-serif; color: #555;">Scripting & Automation:</h4>
 <div style="display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: nowrap;">
   <a href="https://learn.microsoft.com/powershell/scripting/" target="_blank">
@@ -67,7 +67,7 @@
   </a>
 </div>
 
-<!-- IDEs Section -->
+<!-- IDEs Secció -->
 <h4 style="font-family: 'Arial', sans-serif; color: #555;">IDEs:</h4>
 <div style="display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: nowrap;">
   <a href="https://visualstudio.microsoft.com/" target="_blank">
