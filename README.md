@@ -82,4 +82,3 @@
 </div>
 
 
-<meta name="google-site-verification" content="GCf4qfYx4glPiOQYwfl04EYSda1n1IAQeXSqJEdG3Vc" />
