@@ -80,3 +80,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </div>
+
+
+<meta name="google-site-verification" content="GCf4qfYx4glPiOQYwfl04EYSda1n1IAQeXSqJEdG3Vc" />
