@@ -1,5 +1,5 @@
 <!-- Google Site Verification -->
-<!-- google-site-verification: google8b64f00fc08dc980.html -->
+<meta name="google-site-verification" content="google8b64f00fc08dc980" />
 
 <h1><img src="https://github.com/user-attachments/assets/23a4dd66-83e8-4c3b-b17c-fed918c53d53" width="50" height="50" /> I'm Enrique, nice to see you around. </h1>
 
@@ -10,7 +10,6 @@
 <p>Thank you for taking the time to read this. I am excited about the future and look forward to continuing my exploration in the vast field of software development.</p>
 
 <p>Feel free to reach out if you'd like to discuss programming, share ideas, or collaborate on exciting projects!</p>
-
 
 <h3 style="font-family: 'Arial', sans-serif; color: #333;">Languages and Tools that I Use: </h3>
 
@@ -83,5 +82,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </div>
-
-
