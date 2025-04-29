@@ -1,5 +1,4 @@
-<!-- Google Site Verification -->
-<meta name="google-site-verification" content="N3t5kXYR8nAwGpmBSvLkRt6mFzRVZjnO2ol4CkC1OsE" />
+<h1><img src="https://github.com/user-attachments/assets/23a4dd66-83e8-4c3b-b17c-fed918c53d53" width="50" height="50" /> I'm Enrique, nice to see you around.</h1>
 
 <p>Hi, my name is Enrique Folch Blasco, and I am a passionate student of some programming languages, such as Java, Python, Kotlin.... I currently reside in a town close to the beautiful city of Valencia, Spain.</p>
 
@@ -9,74 +8,79 @@
 
 <p>Feel free to reach out if you'd like to discuss programming, share ideas, or collaborate on exciting projects!</p>
 
-<h3 style="font-family: 'Arial', sans-serif; color: #333;">Languages and Tools that I Use: </h3>
+---
 
-<!-- Programming Languages Secció -->
-<h4 style="font-family: 'Arial', sans-serif; color: #555;">Programming Languages:</h4>
-<div style="display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: nowrap;">
-  <a href="https://kotlinlang.org/docs/home.html" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" alt="Kotlin" width="40" height="40" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://dart.dev/docs" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-</div>
+## 🛠️ Languages and Tools I Use
 
-<!-- Frameworks i Platforms Secció -->
-<h4 style="font-family: 'Arial', sans-serif; color: #555;">Frameworks & Platforms:</h4>
-<div style="display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: nowrap;">
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://www.mysql.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-</div>
+<table>
+<tr>
 
-<!-- Operating Systems Secció -->
-<h4 style="font-family: 'Arial', sans-serif; color: #555;">Operating Systems:</h4>
-<div style="display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: nowrap;">
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://www.microsoft.com/windows" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" alt="Windows" width="40" height="40" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-</div>
+<td width="50%" valign="top">
 
-<!-- Scripting i Automation Secció -->
-<h4 style="font-family: 'Arial', sans-serif; color: #555;">Scripting & Automation:</h4>
-<div style="display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: nowrap;">
-  <a href="https://learn.microsoft.com/powershell/scripting/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-</div>
+### 💻 Programming Languages
 
-<!-- IDEs Secció -->
-<h4 style="font-family: 'Arial', sans-serif; color: #555;">IDEs:</h4>
-<div style="display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: nowrap;">
-  <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://www.eclipse.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://developer.android.com/studio" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-</div>
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧰 Frameworks & Platforms
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛠️ IDEs
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 💻 Operating Systems
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Scripting & Automation
+
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+</td>
+
+</tr>
+
+</table>
